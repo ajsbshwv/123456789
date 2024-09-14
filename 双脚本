@@ -1,4 +1,4 @@
-local DrRayLibrary = loadstring(game:HttpGet(".lua"))()
+local DrRayLibrary = loadstring(game:HttpGet//raw.githubusercontent.com/ajsbshwv/123456789/main/%E5%8F%8C%E8%84%9A%E6%9C%AC.lua"))()
 
 local window = DrRayLibrary:Load("云脚本[重制版]", "Default")
 
